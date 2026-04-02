@@ -8,6 +8,9 @@ Apaixonado por construir soluções web práticas e funcionais.
 ## 🚀 Sobre mim
 
 - 🎓 Cursando **ADS — SENAC**
+- 🏛️ Bacharel em **Administração** e **Ciências Contábeis**
+- 📊 Pós-graduado em **Gestão de Equipes de Alta Performance**
+- 🏆 MBA em **Liderança e Desenvolvimento de Pessoas**
 - 💻 Focado em **desenvolvimento web fullstack**
 - 📚 Estudando atualmente: **Python** e **SQL / Banco de Dados**
 - 💼 **Aberto a oportunidades** — estágio ou trabalho na área de desenvolvimento
